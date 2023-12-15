@@ -1,0 +1,47 @@
+.title{
+    text-align: center;
+}
+
+body{
+    background-color: lightcoral;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+h5{
+    font-size: medium;
+}
+
+p{
+    font-size: small;
+}
+
+ol{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+ul{
+    color: rgb(241, 228, 209);
+    font-size: medium;
+}
+
+.first{
+    font-size: xx-small;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .last{
+    font-size: large;
+    color: blue;
+  }
